@@ -1,4 +1,0 @@
-#Mon Apr 27 01:01:53 IST 2020
-base.0=H\:\\SpotOn-Music-Player\\build\\app\\intermediates\\dex\\debug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
