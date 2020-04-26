@@ -1,4 +1,4 @@
-# spoton
+# spoton_music_player
 
 A new Flutter application.
 

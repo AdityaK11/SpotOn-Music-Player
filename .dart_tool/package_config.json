@@ -44,6 +44,12 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "flute_music_player",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/flute_music_player-0.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///C:/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -128,13 +134,13 @@
       "languageVersion": "2.0"
     },
     {
-      "name": "spoton",
+      "name": "spoton_music_player",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-04-26T11:11:53.902529Z",
+  "generated": "2020-04-26T19:17:29.579574Z",
   "generator": "pub",
   "generatorVersion": "2.9.0-1.0.dev.flutter-5b19445d9c"
 }
